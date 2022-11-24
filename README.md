@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/90612970/203826287-1d7c522d-ffab-4155-
 
 ## Synopsis
 
-[Documentation](https://docs.google.com/document/d/1TxXePIRgtk9qT_tXPRhjDVNjM2Qi604U/edit?usp=sharing&ouid=110641888298816581799&rtpof=true&sd=true)
+[Documentation](https://drive.google.com/file/d/1-S4UR9UwtphY25h1rYtTWRdlwrxdKnIv/view?usp=sharing)
 
 
 ## 🚀 About us
