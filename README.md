@@ -24,5 +24,5 @@ https://user-images.githubusercontent.com/90612970/203826287-1d7c522d-ffab-4155-
 ## 🚀 About us
 
 
-We are passionate pre-final year Computer Engineering students and we have built this app as our mini project for Android Development course.
+We are passionate pre-final year Computer Engineering students and we have built this app as our mini project for Android Development course.We have presented an application using the technologies we have learned and explored various layouts and components offered by android studio to define a user-friendly UI.
 
