@@ -2,9 +2,7 @@
 # FoodieZone App using Android Studio
 ![On_demand_Food_Delivery_App_A_Consumer_Upperhand_b9e4b786e8](https://user-images.githubusercontent.com/90612970/203834862-a4f5fe6a-fc1b-441b-bbbe-017460e1565e.png)
 
-
-The easy food delivery apps offer to the people who don’t want to cook at the end of the day is what makes it more loved than any other apps out there.
-
+The online food delivery created a new dimension in the way of eating. The easy food delivery apps offer to the people who don’t want to cook at the end of the day is what makes it more loved than any other apps out there.Such an app  enhances the speed and standardization of taking the order from the customer. It provides a better communication platform.Using this application, the customers need not go to the restaurant by themselves, but they can order the meals through Android mobiles anywhere.
 
 ## Acknowledgements
 
