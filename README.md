@@ -11,7 +11,11 @@ The online food delivery created a new dimension in the way of eating. The easy 
 ## Demo
 
 
-https://user-images.githubusercontent.com/90612970/203826287-1d7c522d-ffab-4155-b5c0-1eab39597fb2.mp4
+
+
+https://user-images.githubusercontent.com/90612970/203837732-7c7d1542-352f-49f8-95b0-c9b3d2a25e12.mp4
+
+
 
 
 ## Synopsis
